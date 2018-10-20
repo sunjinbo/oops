@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/transparent"
+    android:layout_width="70dp"
+    android:layout_height="84dp">
+
+    <FrameLayout
+        android:id="@+id/ly_select"
+        android:background="@color/white"
+        android:layout_gravity="center"
+        android:layout_width="66dp"
+        android:layout_height="84dp">
+
+        <FrameLayout
+            android:id="@+id/ly_effect"
+            android:background="@color/aquamarine"
+            android:layout_gravity="center"
+            android:layout_width="64dp"
+            android:layout_height="82dp">
+
+            <TextView
+                android:id="@+id/tv_effect"
+                android:textColor="@color/white"
+                android:text="@string/old_film"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </FrameLayout>
+
+    </FrameLayout>
+
+</FrameLayout>

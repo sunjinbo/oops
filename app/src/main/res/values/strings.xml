@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Oops!</string>
+    <string name="sepia">褐色</string>
+    <string name="noise">噪点</string>
+    <string name="scratch">刮痕</string>
+    <string name="vignetting">暗角</string>
+    <string name="none">原片</string>
+    <string name="old_film">老电影</string>
+    <string name="mirror">镜像</string>
+    <string name="gauss">高斯模糊</string>
+    <string name="vignette">晕影</string>
+    <string name="lightning">电击</string>
+    <string name="shake">抖动</string>
+    <string name="puppets">木头人</string>
+    <string name="nine_patch">九宫格</string>
+    <string name="shock_wave">冲击波</string>
+    <string name="night_walk">夜行</string>
+    <string name="no_implementation">该功能尚未实现！</string>
+</resources>
